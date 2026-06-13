@@ -1,4 +1,5 @@
 # SAR — Sistema de Búsqueda y Rescate Probabilístico
+DEMO: https://sar-smoky.vercel.app/
 
 > Mapa de probabilidad en tiempo real para operaciones de búsqueda de personas perdidas en áreas naturales, basado en estadísticas de comportamiento de personas perdidas (Lost Person Behavior) y actualización bayesiana con evidencia de campo.
 
@@ -76,5 +77,3 @@ Las estadísticas de comportamiento provienen de datos publicados en: Koester, R
 Todos los derechos reservados. El código está publicado con fines de portafolio y aprendizaje; contacta a la autora para cualquier otro uso.
 
 ---
-
-*Desarrollado por Carolina Mota García.*
